@@ -1,0 +1,7 @@
+run,test macro-F1,test accuracy,best epoch,epochs run
+resnet18_small_ferplus_majority_48px_sqrt_inverse,0.7356,0.8611,21,25
+facenet_ferplus_majority_160px_sqrt_inverse,0.7303,0.8611,20,25
+resnet18_ferplus_majority_128px_sqrt_inverse_e60_mixup0.2_cutmix1_ema0.999,0.7293,0.8626,45,60
+resnet18_ferplus_majority_128px_sqrt_inverse,0.7277,0.856,24,25
+alexnet_ferplus_majority_128px_sqrt_inverse_e30,0.6963,0.8276,25,30
+resnet18_ferplus_majority_128px_sqrt_inverse_scratch,0.6849,0.8232,25,25

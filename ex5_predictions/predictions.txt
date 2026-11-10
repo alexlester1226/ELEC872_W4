@@ -1,0 +1,34 @@
+Model: resnet18_small_ferplus_majority_48px_sqrt_inverse
+
+Device: Tesla T4
+/content/photos/alex_angry.png
+  neutral   79.7%
+  disgust   6.2%
+  contempt  5.5%
+  saved /content/photos/alex_angry_prediction.png
+/content/photos/alex_happy.png
+  happy     81.8%
+  contempt  5.3%
+  disgust   5.2%
+  saved /content/photos/alex_happy_prediction.png
+/content/photos/alex_sad.png
+  neutral   77.5%
+  contempt  6.7%
+  disgust   6.4%
+  saved /content/photos/alex_sad_prediction.png
+/content/photos/aryan_angry.png
+  neutral   74.4%
+  disgust   8.6%
+  contempt  6.9%
+  saved /content/photos/aryan_angry_prediction.png
+/content/photos/aryan_happy.png
+  happy     79.9%
+  contempt  5.9%
+  disgust   5.7%
+  saved /content/photos/aryan_happy_prediction.png
+/content/photos/aryan_sad.png
+  no face found (or face detector unavailable), using the whole image
+  neutral   66.7%
+  happy     14.0%
+  contempt  7.2%
+  saved /content/photos/aryan_sad_prediction.png
